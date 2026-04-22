@@ -1,0 +1,5 @@
+algo = int(input('Digite um número:'))
+s1 = 2*algo
+s2 = 3*algo
+s3 = 4*algo
+print('O número que você digitou {}, vezes 2 {}, vezes 3 {}, e a raiz quadrada {}!'.format(algo, s1, s2, s3))
