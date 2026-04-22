@@ -1,0 +1,5 @@
+n = int(input('Digite um número:'))
+dois = n*2
+tres = n*3
+raizquadrada = n*4
+print('Seu número é {}, o dobro dele é {}, o triplo dele é {}, e a raiz quadrada dele é {}!'.format(n, dois, tres, raizquadrada))
