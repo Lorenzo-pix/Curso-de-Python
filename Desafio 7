@@ -1,0 +1,7 @@
+print('Aqui está a prova professor')
+print('Obrigado, agora vou ver sua média')
+nota = int(input('Digite a nota do aluno:'))
+nota2 = int(input('Digite mais uma nota para o aluno:'))
+media1 = nota / 2
+media2 = nota2 / 2
+print('A sua média da primeira prova é de {}, e a segunda é de {}'.format(media1, media2))
