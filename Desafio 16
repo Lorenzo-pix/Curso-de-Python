@@ -1,0 +1,4 @@
+import math
+import random
+n = random.random ()
+print('O número que você digitou é {} e arredondado é {}'.format(n, (math.floor(n))))
