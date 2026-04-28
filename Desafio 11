@@ -1,0 +1,4 @@
+reais = float(input('Quantos R$ você tem na sua carteira:'))
+taxa_dolar = 3.27
+dolares = reais / taxa_dolar
+print('Com R$ {}, você consegue comprar US$ {}'.format(reais, dolares))
