@@ -1,0 +1,4 @@
+produto = float(input('Qual o valor do produto:'))
+d = 5
+r = produto / d
+print('O preço do produto é de {}, e com o desconto fica {}'.format(produto, r))
