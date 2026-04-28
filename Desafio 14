@@ -1,0 +1,3 @@
+sdf = float(input('Diga qual é o salário do fúncionario:'))
+aumento = sdf * 1.5
+print('O salário do funcionário é de {}, e com o aumento dele fica {}'.format(sdf, aumento))
